@@ -87,13 +87,7 @@
     
 
 }
-
-li{
-  background-image: url(); /*or link to a blank image*/
-  background-repeat: no-repeat;
-  background-position: left;
-  padding-left: 12px;
-}
+/*Top Navbar */
 .topnav {
   background-color: #ffffff;
   overflow: hidden;
